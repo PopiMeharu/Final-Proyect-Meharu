@@ -1,0 +1,18 @@
+body{
+  background-image: url(../imagenes y videos/IMG_0916.jpg);
+    background-color: #cedbf2;
+}
+
+a{
+  font-family:"Noto Serif", serif; ;
+  font-size:40 ;
+  color: #7D91E6 ;
+}
+
+a:hover {
+  background-color:#5271FF  ;
+  background-image: url(../imagenes y videos/IMG_0909.jpg);
+
+
+}
+
